@@ -12,6 +12,7 @@ import { Link } from "expo-router";
 import { TextInput } from "react-native-gesture-handler";
 import { useFonts } from "expo-font";
 import InputComponent from "../../assets/components/InputComponent";
+import InputComponentValidator from "../../assets/components/InputComponent_Validator";
 
 const login = () => {
   const [loaded] = useFonts({
@@ -30,7 +31,7 @@ const login = () => {
 
       <Text style={styles.title}>Escolha uma senha</Text>
 
-      <InputComponent label="Senha" input="******" />
+      <InputComponentValidator label="Senha" input="******" />
 
       <InputComponent label="Confirme sua senha" input="******" />
 
