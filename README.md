@@ -9,8 +9,6 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Conexão direta com o consultor financeiro pessoal
 - [x] Criação de perfis para melhor setorização de gastos
 - [x] Oferta de templates de planejamento financeiro
-- [ ] Tarefa 4
-- [ ] Tarefa 5
 
 ## 💻 Pré-requisitos
 
