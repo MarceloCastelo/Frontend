@@ -21,15 +21,19 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Para instalar o app, siga estas etapas:
 
-Windows:
-
 clone o repositório:
 https://github.com/MarceloCastelo/FrontendCINQ.git
 Abra o terminal do VSCODE e siga os seguintes passos.
 1. instale o node com o comando: npm install
 2. Instale as bibliotecas:
-React SVG: npm i react-native-svg
-Ícones: npm install react-icons --save
-Gráfico: npm install react-native-pie-chart --save
-PasswordStrength: npm install --save react-native-password-strength-meter-bar
-4. Agora, digite no terminal: npm run web (Para ver no navegador) npm run ios (Aparelhos apple) npm andoid (celulares android) npm start para escolher o seu modelo.
+- React SVG: npm i react-native-svg
+- Ícones: npm install react-icons --save
+- Gráfico: npm install react-native-pie-chart --save
+- PasswordStrength: npm install --save react-native-password-strength-meter-bar
+
+  
+4. Agora, digite no terminal:
+  - npm run web (Para ver no navegador)
+  - npm run ios (Aparelhos apple)
+  - npm andoid (celulares android)
+  - npm start para escolher o seu modelo.
