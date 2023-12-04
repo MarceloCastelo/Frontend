@@ -15,6 +15,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 - Você instalou a versão mais recente do Visual Studio Code
+- Você instalou a versão mais recente do Node
 - Você tem uma máquina Windows
 
 ## 🚀 Instalando o App da CINQ
